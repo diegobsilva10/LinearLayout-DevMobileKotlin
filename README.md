@@ -9,4 +9,5 @@
 ## References
 
 - [Documentação Android](https://developer.android.com/reference/android/widget/LinearLayout?hl=pt-br#summary)
+
 developed by [Diego Silva](https://www.linkedin.com/in/diego-silva-2479711a7/)
