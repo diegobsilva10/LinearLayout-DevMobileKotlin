@@ -20,7 +20,7 @@ tools:context=".MainActivity"> - Esse atributo é definido por padrão, com ele 
 
 android:orientation="vertical" - Defini a orientação das views filhas pertencentes a view group.
 
--[Veja exemplo de Atributos Comuns de Layout](link)
+-[Veja exemplo de Atributos Comuns de Layout](https://github.com/diegobsilva10/LinearLayout-DevMobileKotlin/blob/main/app/src/main/res/layout/atributos_comuns_layout.xml)
 
 ## References
 
