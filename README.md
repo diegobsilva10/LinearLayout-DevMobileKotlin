@@ -7,6 +7,8 @@
 - [📔LinearLayout-DevMobileKotlin](#-LinearLayout-DevMobileKotlin)
     - [Sobre Linear_Layout](#ViewGroup-LinearLayout)
     - [Atributos_LinearLayout](#Atributos-LinearLayout)
+    - [ScrollView](#ScrollView)
+    - [HorizontalScrollView](#HorizontalScrollView)
     - [References](#References)
   
 ## ViewGroup-LinearLayout
@@ -22,6 +24,17 @@ android:orientation="vertical" - Defini a orientação das views filhas pertence
 
 -[Veja exemplo de Atributos Comuns de Layout](https://github.com/diegobsilva10/LinearLayout-DevMobileKotlin/blob/main/app/src/main/res/layout/atributos_comuns_layout.xml)
 
+## ScrollView
+
+Entendendo a funcionalidade do ScrollView
+
+-[Exemplo de ScrollView](https://github.com/diegobsilva10/LinearLayout-DevMobileKotlin/blob/main/app/src/main/res/layout/scrollview.xml)
+
+## HorizontalScrollView
+
+Entendendo a funcionalidade do HorizontalScrollView
+
+-[Exemplo de HorizontalScrollView](https://github.com/diegobsilva10/LinearLayout-DevMobileKotlin/blob/main/app/src/main/res/layout/horizontalscrollview.xml)
 ## References
 
 - [Documentação Android](https://developer.android.com/reference/android/widget/LinearLayout?hl=pt-br#summary)
