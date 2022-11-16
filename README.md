@@ -9,6 +9,7 @@
     - [Atributos_LinearLayout](#Atributos-LinearLayout)
     - [ScrollView](#ScrollView)
     - [HorizontalScrollView](#HorizontalScrollView)
+    - [Atributtes TextViews](#Atributtes-TextView)
     - [References](#References)
   
 ## ViewGroup-LinearLayout
@@ -35,6 +36,11 @@ Entendendo a funcionalidade do ScrollView
 Entendendo a funcionalidade do HorizontalScrollView
 
 -[Exemplo de HorizontalScrollView](https://github.com/diegobsilva10/LinearLayout-DevMobileKotlin/blob/main/app/src/main/res/layout/horizontalscrollview.xml)
+
+## Atributtes-TextView
+
+-[Exemplo de Atributos TextViews](https://github.com/diegobsilva10/LinearLayout-DevMobileKotlin/blob/main/app/src/main/res/layout/textview.xml)
+
 ## References
 
 - [Documentação Android](https://developer.android.com/reference/android/widget/LinearLayout?hl=pt-br#summary)
