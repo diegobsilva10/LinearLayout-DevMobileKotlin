@@ -46,6 +46,7 @@ Entendendo a funcionalidade do HorizontalScrollView
 - [Documentação Android](https://developer.android.com/reference/android/widget/LinearLayout?hl=pt-br#summary)
 - [References Linear Layout and Atributtes](https://developer.android.com/reference/android/widget/LinearLayout?hl=pt-br#summary)
 - [Desenvolvimento de Aplicativos Android usando Kotlin_Professor-Gabriel Ferrari Ceron](https://www.udemy.com/course/curso-desenvolvedor-kotlin/)
+- [Referencias de Atributos Text View](https://developer.android.com/reference/kotlin/android/R.styleable.html?hl=pt-br#TextView:kotlin.IntArray)
 
 ##
 
