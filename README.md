@@ -12,6 +12,7 @@
     - [Atributtes TextViews](#Atributtes-TextView)
     - [Button](#Button)
     - [ImageView](#ImageView)
+    - [ProjetoLinearLayout](#Projeto-LinearLayout)
     - [References](#References)
   
 ## ViewGroup-LinearLayout
@@ -47,9 +48,18 @@ Entendendo a funcionalidade do HorizontalScrollView
 
 - [Button](https://github.com/diegobsilva10/LinearLayout-DevMobileKotlin/blob/main/app/src/main/res/layout/button.xml)
 
-##ImageView 
+## ImageView
 
-[ImageView](https://github.com/diegobsilva10/LinearLayout-DevMobileKotlin/blob/main/app/src/main/res/layout/imageview.xml)
+- [ImageView](https://github.com/diegobsilva10/LinearLayout-DevMobileKotlin/blob/main/app/src/main/res/layout/imageview.xml)
+
+## Projeto-LinearLayout
+O projeto consiste em criar o layout abaixo utilizando o LinearLayout
+
+<img src="https://github.com/diegobsilva10/LinearLayout-DevMobileKotlin/blob/main/app/src/main/res/drawable/img.png" width="300px"/>
+
+
+
+-----
 
 ## References
 
