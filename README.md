@@ -10,6 +10,7 @@
     - [ScrollView](#ScrollView)
     - [HorizontalScrollView](#HorizontalScrollView)
     - [Atributtes TextViews](#Atributtes-TextView)
+    - [Button](#Button)
     - [References](#References)
   
 ## ViewGroup-LinearLayout
@@ -40,6 +41,10 @@ Entendendo a funcionalidade do HorizontalScrollView
 ## Atributtes-TextView
 
 -[Exemplo de Atributos TextViews](https://github.com/diegobsilva10/LinearLayout-DevMobileKotlin/blob/main/app/src/main/res/layout/textview.xml)
+
+## Button
+
+- [Button](https://github.com/diegobsilva10/LinearLayout-DevMobileKotlin/blob/main/app/src/main/res/layout/button.xml)
 
 ## References
 
