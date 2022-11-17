@@ -57,6 +57,8 @@ O projeto consiste em criar o layout abaixo utilizando o LinearLayout
 
 <img src="https://github.com/diegobsilva10/LinearLayout-DevMobileKotlin/blob/main/app/src/main/res/drawable/img.png" width="300px"/>
 
+-[Solução do Exercicio](https://github.com/diegobsilva10/LinearLayout-DevMobileKotlin/blob/main/app/src/main/res/layout/projetolinearlayout.xml)
+Obs: Para visualizar a solução basta copiar o código e colar no seu android studio
 
 
 -----
